@@ -40,6 +40,10 @@ For other versions, check the branches
 | discord |
 | zapzap |
 
+## Screenshots
+
+![screenshot1](./screenshots/screenshot1.png)
+
 ## Credits
 
 Migliorelli (eophesia)
