@@ -1,0 +1,11 @@
+window_padding_width 15
+# background #242438
+# background #090909
+# background #101011
+shell /usr/bin/zsh
+
+
+# BEGIN_KITTY_THEME
+# Hachiko
+include current-theme.conf
+# END_KITTY_THEME

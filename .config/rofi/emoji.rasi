@@ -1,0 +1,14 @@
+@import "~/.config/rofi/config.rasi"
+
+window {
+  width: 485px;
+}
+
+listview {
+  columns: 10;
+  flow: horizontal;
+}
+
+element {
+  children: [element-text];
+}
